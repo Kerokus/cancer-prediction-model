@@ -1,3 +1,5 @@
+![Model Performance](images/output1.PNG)
+
 # Breast Cancer Predictor
 
 This project is a machine learning application that predicts whether a breast mass is benign or malignant based on cytological features. The application consists of a data processing and model training script (`main.py`), and a frontend web application built with Streamlit.
