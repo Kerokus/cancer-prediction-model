@@ -4,6 +4,9 @@
 
 This project is a machine learning application that predicts whether a breast mass is benign or malignant based on cytological features. The application consists of a data processing and model training script (`main.py`), and a frontend web application built with Streamlit.
 
+While it is already included in the repo, the original dataset can also be found at:
+https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+
 ## Features
 
 - Data cleaning and preprocessing
